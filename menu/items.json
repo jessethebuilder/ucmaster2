@@ -1,0 +1,14 @@
+{
+  "Beef Stew": {
+    "desc": "It's a Stew",
+    "price": "10.00"
+  },
+  "Lamb Stew" : {
+    "desc": "It's a stew with lamb",
+    "price": "11.50"
+  },
+  "Desert": {
+    "desc": "Eat it Later",
+    "price": "5.75"
+  }
+}
