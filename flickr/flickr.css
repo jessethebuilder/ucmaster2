@@ -1,0 +1,9 @@
+.flickr_item{
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  /*border-bottom: 1px solid black;*/
+}
+
+.flickr_item:nth-child(odd){
+  background-color: #dddddd;
+}
